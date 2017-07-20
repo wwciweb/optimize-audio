@@ -1,0 +1,15 @@
+{
+  "name": "optimize-audio",
+  "version": "1.0.0",
+  "description": "Optimizes audio for web via gulp and ffmpeg",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "WWCI Web Team",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-fluent-ffmpeg": "^1.0.2"
+  }
+}
